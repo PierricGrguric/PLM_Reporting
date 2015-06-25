@@ -12,15 +12,16 @@ possible use cases. But don't do that right now)
 *** Questions
 - What i have to do during the internship and how ?
 *** Work Planned
-- 
+**** DONE Determinate the different part of my internship
 ** Day 2 25/06
 *** Things done
 - read the doc about writing my reporting
 - configuration of Jabber
+- first look on provided reports
 *** Questions
-*** Work Planned [1/2]
-- [X] install emacs and setup orgmode
-- [ ] read the provided reports
+*** Work Planned
+**** DONE install emacs and setup orgmode
+**** TODO read the provided reports
 ** Day
 *** Things done
 *** Questions
