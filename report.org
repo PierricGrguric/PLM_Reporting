@@ -1,0 +1,27 @@
+* Introduction
+This file contains the reporting for my beloved internship done on
+this topic on that year. (after a few weeks, once you really
+understand your internship, you should write a few paragraphs about
+the context, problem and motivation of your work, with some
+possible use cases. But don't do that right now)
+* Bibliography
+* Journal
+** Day 1 24/06
+*** Things done
+- research about JMeter, Play Framework, and Docker
+*** Questions
+- What i have to do during the internship and how ?
+*** Work Planned
+- 
+** Day 2 25/06
+*** Things done
+- read the doc about writing my reporting
+- configuration of Jabber
+*** Questions
+*** Work Planned [1/2]
+- [X] install emacs and setup orgmode
+- [ ] read the provided reports
+** Day
+*** Things done
+*** Questions
+*** Work Planned
