@@ -10,7 +10,7 @@ possible use cases. But don't do that right now)
 *** Things done
 - research about JMeter, Play Framework, and Docker
 *** Questions
-- What i have to do during the internship and how ?
+- What I have to do during the internship and how ?
 *** Work Planned
 **** DONE Determinate the different part of my internship
 ** Day 2 25/06
@@ -19,9 +19,11 @@ possible use cases. But don't do that right now)
 - configuration of Jabber
 - first look on provided reports
 *** Questions
+- none
 *** Work Planned
 **** DONE install emacs and setup orgmode
 **** TODO read the provided reports
+**** TODO create a docker for the server setup
 ** Day
 *** Things done
 *** Questions
