@@ -1,9 +1,9 @@
 * Introduction
-This file contains the reporting for my beloved internship done on
-this topic on that year. (after a few weeks, once you really
-understand your internship, you should write a few paragraphs about
-the context, problem and motivation of your work, with some
-possible use cases. But don't do that right now)
+This file contains the reporting for my internship
+Main part of my internship:
+- Create a docker that deploy a server of webPLM from scratch
+- Setup small test to see if the app is running correctly
+- Setup a load Test
 * Bibliography
 * Journal
 ** Day 1 24/06
@@ -22,8 +22,17 @@ possible use cases. But don't do that right now)
 - none
 *** Work Planned
 **** DONE install emacs and setup orgmode
-**** TODO read the provided reports
+**** DONE read the provided reports
 **** TODO create a docker for the server setup
+** Day 3 26/06
+*** Things done
+- install Boot2Docker to use dockers
+- found a dockerfile of a play framework
+*** Questions
+- how to communicate with a docker ? (research in progress)
+*** Work Planned
+**** TODO understand what is in the dockerfile
+**** TODO change the dockerfile to add webPLM
 ** Day
 *** Things done
 *** Questions
