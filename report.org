@@ -12,7 +12,7 @@ Main part of my internship:
 *** Questions
 - What I have to do during the internship and how ?
 *** Work Planned
-**** DONE Determinate the different part of my internship
+****** DONE Determinate the different part of my internship
 ** Day 2 25/06
 *** Things done
 - read the doc about writing my reporting
@@ -21,9 +21,9 @@ Main part of my internship:
 *** Questions
 - none
 *** Work Planned
-**** DONE install emacs and setup orgmode
-**** DONE read the provided reports
-**** TODO create a docker for the server setup
+****** DONE install emacs and setup orgmode
+****** DONE read the provided reports
+****** TODO create a docker for the server setup
 ** Day 3 26/06
 *** Things done
 - install Boot2Docker to use dockers
@@ -31,8 +31,15 @@ Main part of my internship:
 *** Questions
 - how to communicate with a docker ? (research in progress)
 *** Work Planned
-**** TODO understand what is in the dockerfile
-**** TODO change the dockerfile to add webPLM
+****** DONE understand what is in the dockerfile
+****** TODO change the dockerfile to add webPLM
+** Day 4 29/06
+*** Things done
+- debug of Boot2Docker (need a delete & init to rework)
+- play framework dockerfile understanding (except the Expose line)
+- attended to Marion Guthmuller's PHD defence 
+*** Work Planned
+****** TODO learn how to use the expose command properly (ie how to contact a docker)
 ** Day
 *** Things done
 *** Questions
