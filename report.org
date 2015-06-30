@@ -40,6 +40,17 @@ Main part of my internship:
 - attended to Marion Guthmuller's PHD defence 
 *** Work Planned
 ****** TODO learn how to use the expose command properly (ie how to contact a docker)
+** Day 5 30/06
+*** Things done
+- wrote first Dockerfile to learn how to do it
+- push it to a public repository (http://registry.hub.docker.com/u/pierricgrguric/docker-whale/)
+- Expose in a Dockerfile means the docker listen to this port but from the outside it's an other port.
+*** Questions
+- How to set the port to contact a docker ?
+*** Work Planned
+****** TODO do a dockerfile with play framework and webplm without port open
+****** TODO open the port of this container
+****** TODO contact this container
 ** Day
 *** Things done
 *** Questions
