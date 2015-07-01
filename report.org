@@ -32,14 +32,14 @@ Main part of my internship:
 - how to communicate with a docker ? (research in progress)
 *** Work Planned
 ****** DONE understand what is in the dockerfile
-****** TODO change the dockerfile to add webPLM
+****** DONE change the dockerfile to add webPLM
 ** Day 4 29/06
 *** Things done
 - debug of Boot2Docker (need a delete & init to rework)
 - play framework dockerfile understanding (except the Expose line)
 - attended to Marion Guthmuller's PHD defence 
 *** Work Planned
-****** TODO learn how to use the expose command properly (ie how to contact a docker)
+****** DONE learn how to use the expose command properly (ie how to contact a docker)
 ** Day 5 30/06
 *** Things done
 - wrote first Dockerfile to learn how to do it
@@ -48,9 +48,16 @@ Main part of my internship:
 *** Questions
 - How to set the port to contact a docker ?
 *** Work Planned
-****** TODO do a dockerfile with play framework and webplm without port open
-****** TODO open the port of this container
+****** DONE do a dockerfile with play framework and webplm without port open
+****** DONE open the port of this container
 ****** TODO contact this container
+** Day 6 01/07
+*** Things done
+- wrote and build a dockerfile with play framework and webplm(and all packages required), but unable to execute activator run
+- pushed it to https://github.com/PierricGrguric/PLM_Dockerfile
+- learned how to interact with a docker (EXPOSE and -p option) with a tutorial docker (https://github.com/docker-training/webapp)
+*** Work Planned
+****** TODO find why activator run doesn't work and fix it
 ** Day
 *** Things done
 *** Questions
