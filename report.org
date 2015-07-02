@@ -58,6 +58,12 @@ Main part of my internship:
 - learned how to interact with a docker (EXPOSE and -p option) with a tutorial docker (https://github.com/docker-training/webapp)
 *** Work Planned
 ****** TODO find why activator run doesn't work and fix it
+** Day 7 02/07
+*** Things done
+- found the problem: some dependencies of play framework can't be downloaded
+- started an angular.js mooc (https://angularjs.org/  --> Learn Angular in your browser for free!)
+*** Work Planned
+****** TODO finish the angular.js mooc
 ** Day
 *** Things done
 *** Questions
