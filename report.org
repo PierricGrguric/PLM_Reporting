@@ -7,14 +7,12 @@ Main part of my internship:
 * Bibliography
 * Journal
 ** Day 1 24/06
-*** Things done
 - research about JMeter, Play Framework, and Docker
 *** Questions
 - What I have to do during the internship and how ?
 *** Work Planned
 ****** DONE Determinate the different part of my internship
 ** Day 2 25/06
-*** Things done
 - read the doc about writing my reporting
 - configuration of Jabber
 - first look on provided reports
@@ -25,7 +23,6 @@ Main part of my internship:
 ****** DONE read the provided reports
 ****** TODO create a docker for the server setup
 ** Day 3 26/06
-*** Things done
 - install Boot2Docker to use dockers
 - found a dockerfile of a play framework
 *** Questions
@@ -34,14 +31,12 @@ Main part of my internship:
 ****** DONE understand what is in the dockerfile
 ****** DONE change the dockerfile to add webPLM
 ** Day 4 29/06
-*** Things done
 - debug of Boot2Docker (need a delete & init to rework)
 - play framework dockerfile understanding (except the Expose line)
 - attended to Marion Guthmuller's PHD defence 
 *** Work Planned
 ****** DONE learn how to use the expose command properly (ie how to contact a docker)
 ** Day 5 30/06
-*** Things done
 - wrote first Dockerfile to learn how to do it
 - push it to a public repository (http://registry.hub.docker.com/u/pierricgrguric/docker-whale/)
 - Expose in a Dockerfile means the docker listen to this port but from the outside it's an other port.
@@ -50,21 +45,23 @@ Main part of my internship:
 *** Work Planned
 ****** DONE do a dockerfile with play framework and webplm without port open
 ****** DONE open the port of this container
-****** TODO contact this container
+****** DONE contact this container
 ** Day 6 01/07
-*** Things done
 - wrote and build a dockerfile with play framework and webplm(and all packages required), but unable to execute activator run
 - pushed it to https://github.com/PierricGrguric/PLM_Dockerfile
 - learned how to interact with a docker (EXPOSE and -p option) with a tutorial docker (https://github.com/docker-training/webapp)
 *** Work Planned
-****** TODO find why activator run doesn't work and fix it
+****** DONE find why activator run doesn't work and fix it
 ** Day 7 02/07
-*** Things done
 - found the problem: some dependencies of play framework can't be downloaded
 - started an angular.js mooc (https://angularjs.org/  --> Learn Angular in your browser for free!)
 *** Work Planned
 ****** TODO finish the angular.js mooc
+** Day 8 03/07
+- built an operationnal docker for webplm
+- angular.js mooc
+*** Work Planned
+****** TODO start javascript tests
 ** Day
-*** Things done
 *** Questions
 *** Work Planned
