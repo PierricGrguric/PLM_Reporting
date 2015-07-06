@@ -56,12 +56,15 @@ Main part of my internship:
 - found the problem: some dependencies of play framework can't be downloaded
 - started an angular.js mooc (https://angularjs.org/  --> Learn Angular in your browser for free!)
 *** Work Planned
-****** TODO finish the angular.js mooc
+****** DONE finish the angular.js mooc
 ** Day 8 03/07
 - built an operationnal docker for webplm
 - angular.js mooc
 *** Work Planned
 ****** TODO start javascript tests
-** Day
-*** Questions
+** Day 9 06/07
+- finished the angular.js mooc
+- did some research about link between containers
 *** Work Planned
+****** TODO rewrite the dockerfile (split in one with play framework, the other extends from the first with plm)
+****** TODO create a depository for the docker image on docker hub
