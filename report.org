@@ -66,5 +66,13 @@ Main part of my internship:
 - finished the angular.js mooc
 - did some research about link between containers
 *** Work Planned
-****** TODO rewrite the dockerfile (split in one with play framework, the other extends from the first with plm)
-****** TODO create a depository for the docker image on docker hub
+****** DONE rewrite the dockerfile (split in one with play framework, the other extends from the first with plm)
+****** DONE create a depository for the docker image on docker hub
+** Day 10 07/07
+- writed a dockerFile to have only play framework in a docker (https://github.com/PierricGrguric/PLM_Dockerfile)
+- pushed the image to https://registry.hub.docker.com/u/pierricgrguric/docker-play-framework/
+- writed a dockerfile to have plm in adocker (build from the previous docker)
+- pushed the image to https://registry.hub.docker.com/u/pierricgrguric/docker-plm/
+*** Work Planned
+****** TODO make a list of javascripts tests already done
+****** TODO make a list of javascripts tests missing
