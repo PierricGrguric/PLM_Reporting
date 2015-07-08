@@ -74,5 +74,16 @@ Main part of my internship:
 - writed a dockerfile to have plm in adocker (build from the previous docker)
 - pushed the image to https://registry.hub.docker.com/u/pierricgrguric/docker-plm/
 *** Work Planned
-****** TODO make a list of javascripts tests already done
-****** TODO make a list of javascripts tests missing
+****** DONE make a list of javascripts tests already done
+****** DONE make a list of javascripts tests missing
+** Day 11 08/07
+- for the universe buggle, tests already here (just apply-reverse is missing)
+- the other universe are: baseball, dutchFlag, hanoi, pancake, and sort (bat isn't worth testing yet)
+- forked the repo, and i will make a pull request with a different branch for every universe tested
+- installed node.js and grunt (tools needed for testing)
+- started to understand the tests already existing
+*** Work Planned
+****** TODO fully understand the tests already existing
+****** TODO add the apply-reverse test in the buggle universe
+****** TODO test the universe baseball
+****** TODO test the universe dutchFlag
