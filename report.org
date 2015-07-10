@@ -61,7 +61,7 @@ Main part of my internship:
 - built an operationnal docker for webplm
 - angular.js mooc
 *** Work Planned
-****** TODO start javascript tests
+****** DONE start javascript tests
 ** Day 9 06/07
 - finished the angular.js mooc
 - did some research about link between containers
@@ -83,7 +83,17 @@ Main part of my internship:
 - installed node.js and grunt (tools needed for testing)
 - started to understand the tests already existing
 *** Work Planned
-****** TODO fully understand the tests already existing
+****** DONE fully understand the tests already existing
 ****** TODO add the apply-reverse test in the buggle universe
 ****** TODO test the universe baseball
 ****** TODO test the universe dutchFlag
+** Day 12 09/07
+- finished to understand the tests already existing
+- started to implement the apply-reverse tests
+*** Work Planned
+****** TODO test the universe hanoi
+** Day 13 10/07
+- nearly finished the apply-reverse tests
+- did some research about JSLint
+- read about AngularJS styleguide (https://github.com/toddmotto/angularjs-styleguide)
+- started to think of which tests we need for the baseball universe
