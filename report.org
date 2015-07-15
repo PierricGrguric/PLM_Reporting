@@ -84,7 +84,7 @@ Main part of my internship:
 - started to understand the tests already existing
 *** Work Planned
 ****** DONE fully understand the tests already existing
-****** TODO add the apply-reverse test in the buggle universe
+****** DONE add the apply-reverse test in the buggle universe
 ****** TODO test the universe baseball
 ****** TODO test the universe dutchFlag
 ** Day 12 09/07
@@ -97,3 +97,10 @@ Main part of my internship:
 - did some research about JSLint
 - read about AngularJS styleguide (https://github.com/toddmotto/angularjs-styleguide)
 - started to think of which tests we need for the baseball universe
+** Day 14 15/07
+- finished the tests on the buggle universe
+- ordered the universe to tests them with increasing difficulty (sort, dutchFlag, pancake, hanoi, baseball)
+- started to test the sort universe
+*** Work Planned
+****** TODO finish the sort universe
+****** TODO make a pull request for the test-buggle branch
