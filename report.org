@@ -102,5 +102,16 @@ Main part of my internship:
 - ordered the universe to tests them with increasing difficulty (sort, dutchFlag, pancake, hanoi, baseball)
 - started to test the sort universe
 *** Work Planned
-****** TODO finish the sort universe
-****** TODO make a pull request for the test-buggle branch
+****** DONE finish the sort universe
+****** DONE make a pull request for the test-buggle branch
+** Day 15 16/07
+- testing the sort universe
+** Day 16 17/07
+- resolved bug with the tests of the sort universe
+** Day 17 20/07
+- corrected the test of buggle universe and made a pull request
+- testing the sort universe
+** Day 18 21/07
+- finished the sort universe
+- made a pull request for the sort universe
+- started dutchFlag universe
