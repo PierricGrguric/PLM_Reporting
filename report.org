@@ -86,7 +86,7 @@ Main part of my internship:
 ****** DONE fully understand the tests already existing
 ****** DONE add the apply-reverse test in the buggle universe
 ****** TODO test the universe baseball
-****** TODO test the universe dutchFlag
+****** DONE test the universe dutchFlag
 ** Day 12 09/07
 - finished to understand the tests already existing
 - started to implement the apply-reverse tests
@@ -115,3 +115,6 @@ Main part of my internship:
 - finished the sort universe
 - made a pull request for the sort universe
 - started dutchFlag universe
+** Day 19 22/07
+- finished the dutchFlag universe
+- nearly finished the pancake universe
