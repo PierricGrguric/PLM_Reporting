@@ -122,3 +122,8 @@ Main part of my internship:
 - found a bug in the pancake universe (with burnedPancake)
 *** Work Planned
 ****** TODO finish to test the universe before next week
+** Day 21 24/07
+- corrected the bug in the pancake universe (oldNumber was wrong, so the view when reverse was applied was false)(fix: move the attribut from currentWorld to flipoperation)
+- the other bug: insideOut wasn't inversed when number==1 and reverse was applied, fixed.
+- finished the pancake universe tests
+- universe hanoi and baseball still untested but i will start load test next week. these two universe will be tested if i have time after load test.
