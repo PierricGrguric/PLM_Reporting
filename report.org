@@ -85,13 +85,13 @@ Main part of my internship:
 *** Work Planned
 ****** DONE fully understand the tests already existing
 ****** DONE add the apply-reverse test in the buggle universe
-****** TODO test the universe baseball
+****** RESCHEDULE test the universe baseball
 ****** DONE test the universe dutchFlag
 ** Day 12 09/07
 - finished to understand the tests already existing
 - started to implement the apply-reverse tests
 *** Work Planned
-****** TODO test the universe hanoi
+****** RESCHEDULE test the universe hanoi
 ** Day 13 10/07
 - nearly finished the apply-reverse tests
 - did some research about JSLint
@@ -121,9 +121,21 @@ Main part of my internship:
 ** Day 20 23/07
 - found a bug in the pancake universe (with burnedPancake)
 *** Work Planned
-****** TODO finish to test the universe before next week
+****** RESCHEDULE finish to test the universe before next week
 ** Day 21 24/07
 - corrected the bug in the pancake universe (oldNumber was wrong, so the view when reverse was applied was false)(fix: move the attribut from currentWorld to flipoperation)
 - the other bug: insideOut wasn't inversed when number==1 and reverse was applied, fixed.
 - finished the pancake universe tests
 - universe hanoi and baseball still untested but i will start load test next week. these two universe will be tested if i have time after load test.
+** Day 22 27/07
+- made a pull request for the pancake universe (test and bug resolving)
+- installed protractor: a Node.js program to do E2E test
+- done a tutorial about protractor
+*** Work Planned
+****** DONE create a basic protractor test
+** Day 23 28/07
+- started small protractor test
+- bug when trying to catch an item by class
+*** Work planned
+****** TODO simulate a user resolving the first exercise
+****** TODO create an account on grid5000
