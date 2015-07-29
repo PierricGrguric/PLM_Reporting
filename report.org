@@ -138,4 +138,14 @@ Main part of my internship:
 - bug when trying to catch an item by class
 *** Work planned
 ****** TODO simulate a user resolving the first exercise
-****** TODO create an account on grid5000
+****** DONE create an account on grid5000
+** Day 24 29/07
+- created an account on grid5000
+- find a way to acces an item by class : load it in a variable, then use the variable in test
+- bug found : when i try to acces to the first exercise, the page load, then protractor timed out:
+Timed out waiting for Protractor to synchronize with the page after 11 seconds. 
+Please see https://github.com/angular/protractor/blob/master/docs/faq.md
+- when testing if the title of the page is Home sometimes it works, sometimes it was Accueil. I don't know why.
+*** Work planned
+****** TODO find what protractor wait, and why it doesn't show up after 11 sec
+****** TODO learn to use grid5000
