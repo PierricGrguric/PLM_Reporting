@@ -149,3 +149,6 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 *** Work planned
 ****** TODO find what protractor wait, and why it doesn't show up after 11 sec
 ****** TODO learn to use grid5000
+** Day 25 30/07
+- the 11 second time out happen even if i try to access the page directly (not from the Home page)
+- writed protractor tests without testing them (11sec TO bug)
