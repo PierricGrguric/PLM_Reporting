@@ -152,3 +152,6 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 ** Day 25 30/07
 - the 11 second time out happen even if i try to access the page directly (not from the Home page)
 - writed protractor tests without testing them (11sec TO bug)
+** Day 26 31/07
+- webplm send continiously TCP-keepalive which cause the timeoutbug
+- to resolve the time-out problem: 1) use $interval 2)use browser.ignoreSynchronization = true (protractor seems to ignore it =( )
