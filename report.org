@@ -137,7 +137,7 @@ Main part of my internship:
 - started small protractor test
 - bug when trying to catch an item by class
 *** Work planned
-****** TODO simulate a user resolving the first exercise
+****** DONE simulate a user resolving the first exercise
 ****** DONE create an account on grid5000
 ** Day 24 29/07
 - created an account on grid5000
@@ -147,7 +147,7 @@ Timed out waiting for Protractor to synchronize with the page after 11 seconds.
 Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 - when testing if the title of the page is Home sometimes it works, sometimes it was Accueil. I don't know why.
 *** Work planned
-****** TODO find what protractor wait, and why it doesn't show up after 11 sec
+****** DONE find what protractor wait, and why it doesn't show up after 11 sec
 ****** TODO learn to use grid5000
 ** Day 25 30/07
 - the 11 second time out happen even if i try to access the page directly (not from the Home page)
@@ -155,3 +155,8 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 ** Day 26 31/07
 - webplm send continiously TCP-keepalive which cause the timeoutbug
 - to resolve the time-out problem: 1) use $interval 2)use browser.ignoreSynchronization = true (protractor seems to ignore it =( )
+** Day 27 03/08
+- browser.ignoreSynchronisation magically works (changed nothing but now it works)
+- now use browser.wait to manually synchronise
+** Day 28 04/08
+- finished the simultion where an user solve the first exercise (and resolved all the problem I have with protractor)
