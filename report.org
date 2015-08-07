@@ -160,3 +160,16 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 - now use browser.wait to manually synchronise
 ** Day 28 04/08
 - finished the simultion where an user solve the first exercise (and resolved all the problem I have with protractor)
+** Day 29 05/08
+- continued protractor tests
+** Day 30 06/08
+- continued protractor tests
+** Day 31 07/08
+- going through many problems with protractor (inconsistency, problem for element finding)
+*** Questions
+- should I use protractor or an other simulating software ?
+(Protractor is good for angularJS app, because it synchronize with it, but i have to use browser.ignoreSynchronization so ...)
+*** Work planned
+****** TODO write more tests
+****** TODO deploy tests on grid5000
+****** TODO write my internship report
