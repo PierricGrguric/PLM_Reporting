@@ -173,3 +173,13 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 ****** TODO write more tests
 ****** TODO deploy tests on grid5000
 ****** TODO write my internship report
+** Day 32 17/08
+- still using protractor, but without changing page with the menu (bug when i close it: the page is shifted to the left)
+- started writing test wich verify if the server respond succes when we submit the right code
+- my protractor tests are here : https://github.com/PierricGrguric/PLM_Protractor
+** Day 33 18/08
+- writing test for the exercise of the lesson welcome
+** Day 34 19/08
+- added the case where the user submit an empty code
+*** Work planned
+****** TODO for stress testing, find a way to measure time with protracto
