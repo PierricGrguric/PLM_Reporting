@@ -183,3 +183,8 @@ Please see https://github.com/angular/protractor/blob/master/docs/faq.md
 - added the case where the user submit an empty code
 *** Work planned
 ****** TODO for stress testing, find a way to measure time with protracto
+** Day 35 20/08
+- added more test
+- added the possibility where the pop-up is missing(when the page change)
+- improved the selectors(in case there is more than one world in the exercise)
+- created a conf file for launching all the test in one command(full green is hard to get(not achieved yet))
